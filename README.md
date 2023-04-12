@@ -7,3 +7,4 @@ hexo server
 hexo clean
 hexo generate
 hexo deploy
+简化成 hexo g -d
