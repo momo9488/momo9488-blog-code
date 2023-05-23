@@ -8,3 +8,7 @@ hexo clean
 hexo generate
 hexo deploy
 简化成 hexo g -d
+
+## 博客地址
+https://momo9488.github.io/
+
