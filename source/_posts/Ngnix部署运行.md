@@ -14,5 +14,6 @@ title: Ngnix部署运行
 - 输入nginx命令 nginx -s stop(快速停止nginx) 或 nginx -s quit(完整有序的停止nginx)。
   
 ### 打包文件存放
-- 文件放在html
+- 文件放在html(D:\ngnix\nginx-1.22.1\nginx-1.22.1\html)
 - nginx.conf下修改配置文件 root文件存放位置 listen端口
+- 运行localhost:listen端口(http://localhost:90)
