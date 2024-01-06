@@ -3,7 +3,7 @@
 hexo clean
 hexo generate
 hexo server
-## 部署
+## 部署（会直接就部署到线上）
 hexo clean
 hexo generate
 hexo deploy
