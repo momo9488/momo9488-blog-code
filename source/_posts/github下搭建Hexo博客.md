@@ -2,6 +2,8 @@
 title: Github下搭建Hexo博客
 ---
 
+### 简介
+快速、简洁且高效的博客框架
 ### 准备工作
 - GitHub账号
 - 安装Git

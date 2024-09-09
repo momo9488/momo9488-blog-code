@@ -1,3 +1,6 @@
+---
+title: vue3学习
+---
 ### 学习视频
 [地址](https://www.bilibili.com/video/BV1Za4y1r7KE/?p=60&spm_id_from=pageDriver&vd_source=d089cf3fa472afb9fc2615b1cfc081f3)
 

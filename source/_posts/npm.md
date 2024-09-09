@@ -1,4 +1,8 @@
-npm cache clean --force
+---
+title: npm安装包玩法
+---
+
+## npm cache clean --force
 
 
 ## rimraf
